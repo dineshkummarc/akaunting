@@ -19,6 +19,8 @@ Online accounting software designed for small businesses and freelancers. Akaunt
 * Database (e.g.: MariaDB, MySQL, PostgreSQL, SQLite)
 * Web Server (eg: Apache, Nginx, IIS)
 * [Other libraries](https://akaunting.com/hc/docs/on-premise/requirements/)
+PHP Extensions
+BCMath, Ctype, cURL, DOM, FileInfo, Intl, GD, JSON, Mbstring, OpenSSL, PDO, Tokenizer, XML, Zip
 
 ## Framework
 
